@@ -4,7 +4,7 @@
 
 | Number of Instances:  | 20000 |
 |-----------------------|--------|
-| Number of Attributes: | 16     |
+| Number of Attributes: | 17     |
 
 ## Tasks Performed:
 ![image](https://user-images.githubusercontent.com/72307204/233202707-ebbad264-b573-43be-8e0d-e2501d9b638e.png)
