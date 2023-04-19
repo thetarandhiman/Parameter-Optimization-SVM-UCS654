@@ -28,10 +28,3 @@ S10	|0.905	|rbf	|100	|0.1|
 
 ### Convergence graph of best SVM i.e. Sample S5
 ![image](https://user-images.githubusercontent.com/72307204/233204049-1708b77c-c541-4d1b-b75e-ae72da33cbb3.png)
-
-## Submission by :
-**Name** : Taranpreet Kaur Dhiman
-<br>
-**Roll No** : 102017050
-<br>
-**Subgroup** : 3CS3
